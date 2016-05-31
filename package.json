@@ -1,0 +1,27 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incomparable9527/demo.Webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Fan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incomparable9527/demo.Webpack/issues"
+  },
+  "homepage": "https://github.com/incomparable9527/demo.Webpack#readme",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.2"
+  }
+}
